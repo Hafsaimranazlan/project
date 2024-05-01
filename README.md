@@ -1,5 +1,5 @@
 # End to end project implementation
-
+-------------------------------------.
 1- installation
 2- Github repo setup
 3- project template
@@ -17,4 +17,23 @@
 10- prediction pipeline
 11- User App
 12- Dockerization
-13- Deployement on AWS
+13- Deployement on AWS / CI-CD
+
+
+# pre-requisits
+----------------
+1- python programing (OOPs)
+2- Machine Learing Concepts
+3- AWS Account --> Deployement
+4- System Configuration
+
+
+# Tech stack
+-------------
+- 1 pandas
+- 2 sk-learn
+- 3 matplotlib/Seaborn
+- 4 pyyaml
+- 5 Flask
+- 6 AWS 
+
