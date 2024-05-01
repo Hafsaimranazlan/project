@@ -37,3 +37,18 @@
 - 5 Flask
 - 6 AWS 
 
+
+# implementation
+------------------
+- 1 project structure should not be always fixed
+- 2 oops concept is required
+
+
+# Day 1
+----------
+- 1 Project Setup
+- 2 Github setup
+- 3 project template
+- 4 Requirements installation and project setup
+
+
