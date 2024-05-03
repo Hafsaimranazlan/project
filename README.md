@@ -51,4 +51,21 @@
 - 3 project template
 - 4 Requirements installation and project setup
 
+# creating Environment
+------------------------
+'''
+conda create -n mlproj python==3.8 -y 
+'''
 
+# Activat Envireonment
+------------------------
+'''
+conda activate mlproj
+'''
+
+
+# Requirements installation
+-----------------------------
+'''
+pip install requirements.txt
+'''
