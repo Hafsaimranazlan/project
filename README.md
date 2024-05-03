@@ -59,13 +59,19 @@ conda create -n mlproj python==3.8 -y
 
 # Activat Envireonment
 ------------------------
-'''
+'''bash
 conda activate mlproj
 '''
 
 
 # Requirements installation
 -----------------------------
-'''
+'''bash
 pip install requirements.txt
 '''
+
+# Day 2
+---------
+-1 Notebook Experiment
+-2 project Utility --> Logging,Exception,utils modules
+-3 project workflows
