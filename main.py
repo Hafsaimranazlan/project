@@ -1,1 +1,3 @@
-from src.ml_project.config import configuration
+from ml_project import logger
+
+logger.info('this is custom log')
