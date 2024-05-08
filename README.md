@@ -89,3 +89,10 @@ pip install requirements.txt
 - 8 update the main.py
 - 9 update the app.py 
 
+
+# Day 3
+---------
+- 1 Data ingestion components --> Github
+- 2 Data validation --> check wether all the column are present
+- 3 Data Transformation 
+
